@@ -1,0 +1,12 @@
+{
+  "name": "disable_meta_q",
+  "title": "Disable Meta-Q",
+  "id": "jid1-HthHeBMpdVk4wz",
+  "description": "Disables the Meta-Q key",
+  "author": "Eitan Adler",
+  "license": "MIT/X11",
+  "version": "1.0",
+  "icon": "data/icon-48.png",
+  "icon64": "data/icon-64.png",
+  "permissions": {"private-browsing": true}
+}
